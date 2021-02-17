@@ -126,7 +126,7 @@ B_List = [Stone(655, 50, 655+32, 50+32, 655-32, 50-32, "brown"),
           Stone(1088, 50, 1088+32, 50+32, 1088-32, 50-32, "white"),
           Stone(1088, 115, 1088+32, 115+32, 1088-32, 115-32, "white"),
 
-          Stone(1600, 1600, 1600+65, 1600+65, 0, 0, "red")]
+          Stone(1600, 1600, 1600+65, 1600+65, 0, 0, "white")]
 
 
 # Put the stones in game board (by slicing-brown stones 0-15, white stones 15-31)
